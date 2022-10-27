@@ -5,7 +5,8 @@
 
 ## Videos
 https://www.youtube.com/watch?v=WQRa92AdcpY
-https://www.youtube.com/watch?v=OLjrYku-0x8&t=11s
+
+https://www.youtube.com/watch?v=OLjrYku-0x8&t=
 
 ## Screenshots
 ![f662858bcd81dcb32e82024e63e04d89f5e8b80c](https://user-images.githubusercontent.com/112611821/198361556-887c8cea-1167-4e64-b668-32463e5c8db5.jpg)
